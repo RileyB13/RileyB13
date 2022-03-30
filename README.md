@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RileyB13
-- 👀 I’m interested in ... becoming a Software Engineer
-- 🌱 I’m currently learning ... Python, Java, .NET, Javascript, & Typescript
-- 📫 How to reach me ... my email is: rileydbrogan@gmail.com
+- 👋 Hi, I’m Riley!
+- I’m interested in becoming a Software Engineer
+- I’m currently learning Python, Java, .NET, Javascript, & Typescript
+- My email is: rileydbrogan@gmail.com
 
 <!---
 RileyB13/RileyB13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
