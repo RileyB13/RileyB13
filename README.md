@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riley!
 - I’m interested in becoming a Software Engineer
-- I’m currently learning Python, Java, .NET, Javascript, & Typescript
+- I’m currently working on really mastering JavaScript
 - My email is: rileydbrogan@gmail.com
 
 <!---
